@@ -1,0 +1,1 @@
+Put images of dogs in this folder

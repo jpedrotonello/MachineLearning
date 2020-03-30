@@ -1,0 +1,1 @@
+Put images of cats in this folder
